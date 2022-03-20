@@ -1,0 +1,17 @@
+img{
+    margin-top: 60px;
+    margin-left: 38%;
+    width: 22%;
+    height: 22%;
+
+    }
+    .searchbox{  
+         margin-left: 38%;
+         width: 50%;
+    
+}
+button{
+    margin-top: 10px;
+    background-color: rgba(248, 245, 245, 0.925);
+    border-color: gray;
+}
